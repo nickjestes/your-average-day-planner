@@ -1,5 +1,7 @@
 Your Average Day Planner!
 
+URL: https://nickjestes.github.io/your-average-day-planner/
+
 From the basic script a few things were added:
 
 * Today's date using moment.js (moment())
